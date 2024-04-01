@@ -1,0 +1,53 @@
+{
+  "user": [
+    {
+      "id": "836d",
+      "username": "umang8005",
+      "email": "umanglakhani8005@gmail.com",
+      "phone": "9081658005",
+      "image": "https://res.cloudinary.com/djqnvvxjd/image/upload/v1583461921/f1us2kjehlkpj2xk2yy7.jpg"
+    },
+    {
+      "id": "bdd8",
+      "username": "umang",
+      "email": "pratiksangu@gmail.com",
+      "phone": "7891521123",
+      "image": "https://m.media-amazon.com/images/I/41fX5Z8l3JL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "e80c",
+      "username": "laksh",
+      "email": "umanglakhani8005@gmail.com",
+      "phone": "9081658005",
+      "image": "https://res.cloudinary.com/djqnvvxjd/image/upload/v1583461921/f1us2kjehlkpj2xk2yy7.jpg"
+    },
+    {
+      "id": "7f22",
+      "username": "umang8005",
+      "email": "umanglakhani8005@gmail.com",
+      "phone": "9081658005",
+      "image": "https://res.cloudinary.com/djqnvvxjd/image/upload/v1583461921/f1us2kjehlkpj2xk2yy7.jpg"
+    },
+    {
+      "id": "0fca",
+      "username": "umang",
+      "email": "umanglakhani0@gmail.com",
+      "phone": "9081658000",
+      "image": "https://m.media-amazon.com/images/I/41fX5Z8l3JL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": "15be",
+      "username": "umang_lakhani__",
+      "email": "umanglakhani0@gmail.com",
+      "phone": "9081658005",
+      "image": "https://res.cloudinary.com/djqnvvxjd/image/upload/v1583461921/f1us2kjehlkpj2xk2yy7.jpg"
+    },
+    {
+      "id": "16bf",
+      "username": "umang",
+      "email": "umanglakhani0@gmail.com",
+      "phone": "9081658005",
+      "image": "https://m.media-amazon.com/images/I/41fX5Z8l3JL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
